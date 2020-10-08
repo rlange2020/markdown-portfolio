@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Rachael Lange
+## Technical Writer
+### Lexsys GmbH, Stuttgart, Germany
