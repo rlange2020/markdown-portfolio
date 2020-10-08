@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Tacos
+2. Pugs :dog:
+   1. Pepe
+   2. Lupe :heart:
